@@ -15,6 +15,7 @@ requirements = [
     'memory_profiler',
     'pyarrow',
     'matplotlib',
+    'viztracer',
 ]
 
 if '__main__' == __name__:
