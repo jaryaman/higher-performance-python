@@ -16,6 +16,8 @@ requirements = [
     'pyarrow',
     'matplotlib',
     'viztracer',
+    'aiomultiprocess',
+    'aiohttp',
 ]
 
 if '__main__' == __name__:
